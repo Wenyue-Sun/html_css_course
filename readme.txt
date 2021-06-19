@@ -35,4 +35,9 @@ Build Tools
 Providers
 - Netlify: able to connect to github directly
 
+# Measureing site performance
+
+1: web.dev/measure/
+2: google chrom store lighthouse (add to chrome, and use in dev tools)
+
 
