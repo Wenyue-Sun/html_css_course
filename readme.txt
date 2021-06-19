@@ -11,3 +11,7 @@ VScode extensions:
 
 JS library for animation
     1) AOS animation (google it)
+
+
+Resources
+1: google html validator    
