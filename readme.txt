@@ -8,3 +8,6 @@ VScode extensions:
     4) Highlight Matching Tag
     5) Todo Highlight
     6) Live server
+
+JS library for animation
+    1) AOS animation (google it)
