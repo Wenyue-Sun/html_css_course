@@ -18,8 +18,6 @@ Resources
 2: google css validator
 
 
-
-
 #Build for production
 Build Tools 
 - Webpack: so many configuration
@@ -32,5 +30,9 @@ Build Tools
         - then: parcel index.html
     - parcel build index.html (build for production)
         - I encounted a tree.render error. Check "https://stackoverflow.com/questions/67087634/parcel-js-tree-render-is-not-a-function" for solution
+
+# Deployment
+Providers
+- Netlify: able to connect to github directly
 
 
